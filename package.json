@@ -1,5 +1,5 @@
 {
-  "name": "orientedsimplicial-complex-compare",
+  "name": "oriented-simplicial-complex-compare",
   "version": "1.0.0",
   "description": "A total order on simplicial complexes",
   "main": "sc-cmp.js",
