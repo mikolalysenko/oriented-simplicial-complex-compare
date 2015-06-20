@@ -1,5 +1,5 @@
 {
-  "name": "simplicial-complex-compare",
+  "name": "orientedsimplicial-complex-compare",
   "version": "1.0.0",
   "description": "A total order on simplicial complexes",
   "main": "sc-cmp.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikolalysenko/simplicial-complex-compare.git"
+    "url": "https://github.com/mikolalysenko/oriented-simplicial-complex-compare.git"
   },
   "keywords": [
     "simplicial",
@@ -32,7 +32,7 @@
   "author": "Mikola Lysenko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikolalysenko/simplicial-complex-compare/issues"
+    "url": "https://github.com/mikolalysenko/oriented-simplicial-complex-compare/issues"
   },
-  "homepage": "https://github.com/mikolalysenko/simplicial-complex-compare"
+  "homepage": "https://github.com/mikolalysenko/oriented-simplicial-complex-compare"
 }
